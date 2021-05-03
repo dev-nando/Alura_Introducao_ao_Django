@@ -1,0 +1,6 @@
+venv/
+alurareceitas/__pycache__ 
+receitas/__pycache__
+.vscode
+/secrets.json
+secrets.json
